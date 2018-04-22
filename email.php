@@ -1,6 +1,6 @@
 <?php 
 // EDIT THE 2 LINES BELOW AS REQUIRED
-$send_email_to = "mshahbazsaleem@gmail.com";
+$send_email_to = "fabio.baiardi@bluewin.ch";
 $email_subject = "Your email subject line";
 
 //GET FIELDS FROM YOUR HTML FORM, THE NAME PROPERTY IS PASSED IN THE $_POST ARRAY
